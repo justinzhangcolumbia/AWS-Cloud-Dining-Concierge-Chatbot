@@ -1,2 +1,2 @@
-# Cloud-Dining-Concierge-Chatbot
-Cloud-Dining-Concierge-Chatbot
+# AWS-Cloud-Dining-Concierge-Chatbot
+AWS-Cloud-Dining-Concierge-Chatbot
