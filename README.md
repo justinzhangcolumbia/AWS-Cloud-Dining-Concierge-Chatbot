@@ -1,4 +1,6 @@
 # AWS-Cloud-Dining-Concierge-Chatbot
+This is for Cloud Computing Class assignment and part of the final project.
+
 AWS Cloud Dining Concierge Chatbot is a scalable distributed application leveraging message queues and notifications.
 ## About
 Dining Concierge Chatbot will get restaurant suggestions using the Yelp API given a set of preferences (restaurant location, cuisine, dining time, number of people dining and phone number) and sends the formatted restaurant suggestions through text message to the provided user's phone number using AWS SNS.
